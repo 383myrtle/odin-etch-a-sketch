@@ -3,6 +3,9 @@
     height: 59px;
     width: 59px;
 }
+.blue {
+    background-color: blue;
+}
 div.container {
     height: 256px;
     width: 960px;
