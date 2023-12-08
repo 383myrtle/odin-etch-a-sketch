@@ -1,13 +1,13 @@
 .block {
     background-color: red;
-    height: 59px;
-    width: 59px;
+    height: 60px;
+    width: 60px;
 }
 .blue {
     background-color: blue;
 }
 div.container {
-    height: 256px;
+    height: 960px;
     width: 960px;
     display: flex;
     flex-wrap: wrap;
