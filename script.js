@@ -7,7 +7,7 @@ for (let i = 0; i < 256; i++){
 }
 
 function changeColor(e){
-    e.target.classList.add('blue')
+    e.target.style.backgroundColor = `rgb(${Math.floor(Math.random()*256)},${Math.floor(Math.random()*256)},${Math.floor(Math.random()*256)})`
 }
 
 let input = document.querySelector('input')
